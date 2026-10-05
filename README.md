@@ -5,7 +5,7 @@
 I turn Wi-Fi Channel State Information (CSI) into signals about people: who's in the room, what they're doing, where they are, and how they're breathing.
 
 - 🏢 Senior AI Engineer at **Wistron NeWeb Corporation (WNC)**, working on Wi-Fi sensing through an industry–academia collaboration with NYCU
-- 🎓 M.S. graduate of NYCU, Green Computing and Embedded Systems Lab, advised by **Prof. Shiao-Li Tsao (曹孝櫟)**
+- 🎓 M.S. graduate of NYCU, **GRASS Lab** (Green Computing and Embedded Systems Lab, 綠色運算與嵌入式系統實驗室), advised by **Prof. Shiao-Li Tsao (曹孝櫟)**
 
 ## 🔬 What I work on
 
