@@ -1,6 +1,11 @@
 # Hi, I'm 周漢璋 (Han-Chang Chou) 👋
 
-**Wi-Fi sensing researcher & ML engineer** — I turn Wi-Fi Channel State Information (CSI) into signals about people: who's in the room, what they're doing, where they are, and how they're breathing.
+**Senior AI Engineer @ WNC** · M.S., National Yang Ming Chiao Tung University (NYCU)
+
+I turn Wi-Fi Channel State Information (CSI) into signals about people: who's in the room, what they're doing, where they are, and how they're breathing.
+
+- 🏢 Senior AI Engineer at **Wistron NeWeb Corporation (WNC)**, working on Wi-Fi sensing through an industry–academia collaboration with NYCU
+- 🎓 M.S. graduate of NYCU, Green Computing and Embedded Systems Lab, advised by **Prof. Shiao-Li Tsao (曹孝櫟)**
 
 ## 🔬 What I work on
 
@@ -35,7 +40,8 @@ Also comfortable with: Java, Node.js, embedded systems / AIoT, conda & JupyterHu
 
 ## 📫 Contact
 
-- Email: henry890811@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HanChang_Chou-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanchang-chou-691024228/)
+[![Email](https://img.shields.io/badge/Email-henry890811@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:henry890811@gmail.com)
 
 ---
 
